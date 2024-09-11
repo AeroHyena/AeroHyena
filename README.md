@@ -6,9 +6,9 @@ I love open-source, and want to see a world where everyone can access can contri
 
 ### Projects
 
-My current projects evol;ve around Linux and making it more user-friendly and easy to install and configure.
+My current projects evolve around Linux and making it more user-friendly and easy to install and configure.
 
-My long-term visio0n is compiling these into a complete Linux distro.
+My long-term vision is compiling these into a complete Linux distro.
 
 ### My Socials:
 <div id="badges">
